@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-11-29 12:25">
+  <shop>
+  <name>Mega-Drop.com.ua - Максимально Комфортний Дропшиппінг</name>
+  <company>Mega-Drop.com.ua - Максимально Комфортний Дропшиппінг</company>
+  <url>https://mega-drop.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+      <currency id="RON" rate="CB"/>
+    </currencies>
+    <categories>
+		<category id="122034466">АВТОМОБІЛЬНІ ТОВАРИ</category>
+    </categories>
+  <offers>
+<offer id="pioimni1" available="false">
+    <url>https://mega-drop.com.ua/p1964752960-avtomobilnyj-parktronik-car.html</url>
+	<oldprice>77</oldprice>
+    <price>55</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>122034466</categoryId>
+    <picture>https://images.prom.ua/4915391785_avtomobilnyj-parktronik-car.jpg</picture>	
+    <picture>https://images.prom.ua/4915391612_avtomobilnyj-parktronik-car.jpg</picture>
+    <picture>https://images.prom.ua/4915392469_avtomobilnyj-parktronik-car.jpg</picture>
+    <picture>https://images.prom.ua/4915392579_avtomobilnyj-parktronik-car.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Автомобильный парктроник Car Radar parking на 4 ультразвуковых датчика. черный md</name>
+    <name_ua>Автомобильный парктроник Car Radar parking на 4 ультразвуковых датчика. черний</name_ua>
+ 	<vendor>AZzardo</vendor>   
+	<vendorCode>mds-95428</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Автомобильный парктроник  на 4 ультразвуковых датчика</description>
+    <description_ua>Car Radar parking</description_ua>
+    <quantity_in_stock>1</quantity_in_stock>
+    <keywords>парктроник, автомобильный парктроник, автомобильный парктроник на 4 датчика, парктроник на 4 датчика, парктроник на 4 датчика с lcd монитором, парктроник автомобильный, парковочная система, автомобильная парковочная система, парковочная система на 4 датчика, автомобильная парковочная система с lcd монитором, парктроник с lcd дисплеем, парковочная система в машину, парктроник в авто, автоматическая система парковки, парктроник с камерой заднего вида, система парковки car radar parking 4 датчика, система парковки car radar parking, парктроник с ночным видением, парктроник с функцией ночного видения, парктроник парковочный радар на 4 датчика, парковочная система в авто, парковочная система с функцией ночного видения, парковочная система в авто с lcd монитором, парктроник в машину, автомобильный парктроник car radar parking на 4 ультразвуковых датчика</keywords>
+    <keywords_ua>парктроник, автомобільний парктронік, автомобільний парктронік на 4 датчики, парктронік на 4 датчики, парктронік на 4 датчики з lcd монітором, парктронік автомобільний, паркувальна система, автомобільна паркувальна система, паркувальна система на 4 датчики, автомобільна паркувальна система з lcd монітором, парктронік з lcd дисплеєм, паркувальна система в машину, парктроник в авто, автоматична система паркування, парктронік з камерою заднього виду, система паркування car radar parking 4 датчика, система паркування car radar parking, парктронік з нічним баченням, парктронік з функцією нічного бачення, парктронік паркувальний радар на 4 датчики, паркувальна система в авто, паркувальна система з функцією нічного бачення, паркувальна система в авто з lcd монітором, парктроник в машину, автомобильный парктроник car radar parking на 4 ультразвуковых датчика</keywords_ua>
+    <param name="Тип">Парктроник на 4 датчика</param>
+    <param name="Оповещение">Звуковое</param>
+    <param name="Дисплей парктроника">LCD дисплей</param>
+    <param name="Цвет">Черный</param>
+    <param name="Диапазон измерений от 0 до" unit="м">2.5</param>
+    <param name="Влагозащита">Да</param>
+    <param name="Самопрограммирование">Нет</param>
+    <param name="Диаметр датчиков" unit="мм">18</param>
+    <param name="Комплектация">Установочная фреза</param>
+    <param name="Состояние">Новое</param>
+    <param name="Цвет корпуса">Черный</param>
+  </offer>
+  </offers>
+</shop>
+</yml_catalog>
