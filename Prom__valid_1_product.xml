@@ -17,7 +17,7 @@
 		<category id="122034466">АВТОМОБІЛЬНІ ТОВАРИ</category>
     </categories>
   <offers>
-<offer id="pioimni3" available="false">
+<offer id="pioimni4" available="false">
     <url>https://mega-drop.com.ua/p1964752960-avtomobilnyj-parktronik-car.html</url>
 	<oldprice>77</oldprice>
     <price>55</price>
@@ -50,7 +50,7 @@
     <param name="Комплектация">Установочная фреза</param>
     <param name="Состояние">Новое</param>
     <param name="Цвет корпуса">Черный</param>
-	<param name="Вага">100</param>
+	<weight>1.11</weight>
   </offer>
   </offers>
 </shop>
